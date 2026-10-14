@@ -1,0 +1,9 @@
+[package]
+org = "kaumini"
+name = "sadsadfg"
+version = "0.1.0"
+distribution = "2201.14.0"
+title = "sadsadfg"
+
+[build-options]
+sticky = true
